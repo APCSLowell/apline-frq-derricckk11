@@ -1,7 +1,7 @@
 public class APLine
 {
   /* your code here */
-  public ApLine(int a; int b; int c){
+  public APLine(int al, int b, int c){
 
     private int aVal = a; 
     private int bVal = b;
@@ -15,7 +15,7 @@ public class APLine
     
   }
 
-  public boolean isOnLine(int x; int y){
+  public boolean isOnLine(int x, int y){
 
 
     if(aVal * x + bVal * y + c == 0){
