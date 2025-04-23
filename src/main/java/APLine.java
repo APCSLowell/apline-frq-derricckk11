@@ -1,11 +1,16 @@
 public class APLine
 {
   /* your code here */
+  private int aVal;
+  private int bVal;
+  private int cVal;
+  
+  
   public APLine(int al, int b, int c){
 
-    private int aVal = a; 
-    private int bVal = b;
-    private int cVal = c; 
+    aVal = a; 
+    bVal = b;
+    cVal = c; 
   }
 
 
